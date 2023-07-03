@@ -1,0 +1,87 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+  background-color: #eee;
+}
+
+.form{
+  width: 85%;
+  margin: 0 auto;
+  background-color: rgb(223, 79, 79);
+  padding: 10px;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+#task{
+  border-radius: 8px;
+  width: 75%;
+  height: 50px;
+  border-style: none;
+  padding-left: 20px;
+  font-size: 20px;
+  outline: none;
+}
+
+#add{
+  font-size: 20px;
+  height: 40px;
+  width: 90px;
+  margin-right: 20px;
+  border-radius: 8px;
+  border-style: none;
+  background-color: rgb(100, 96, 96);
+  color: white;
+  cursor: pointer;
+}
+
+.tasks{
+  width: 90%;
+  background-color: white;
+  margin-bottom: 40px;
+  border: 2px solid rgb(100, 96, 96);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+}
+.nDiv{
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: rgb(185, 185, 185);
+  margin-bottom: 10px;
+  margin-top: 5px;
+  border-radius: 8px;
+  color: rgb(33, 31, 131);
+}
+.delBtn{
+  color: red;
+  border-radius: 20px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.pTask{
+  padding-left:20px;
+  font-size: 20px;
+}
+
+
+.done{
+  opacity: 40%;
+}

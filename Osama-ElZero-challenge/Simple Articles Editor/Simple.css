@@ -1,0 +1,56 @@
+:not(*:root:root) {
+  user-select: none;
+}
+body {
+  height: 100vh;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 80%;
+}
+
+.control {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #eee;
+  padding: 5px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.514);
+  border-bottom: none;
+}
+span,
+#fonts,
+option {
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.514);
+  cursor: pointer;
+  font-size: 18;
+  font-weight: bold;
+}
+span:nth-child(2) {
+  font-weight: bold;
+}
+
+.coun {
+  padding: 40px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.514);
+  border-top: none;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+.black-white {
+  background-color: black;
+  color: white;
+}
