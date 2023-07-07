@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+div{
+  height: 100vh;
+}
+
+a{
+  width: 30px;
+  padding: 5px;
+  height: 30px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: red;
+  border-radius: 8px;
+  color: wheat;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#section-1{
+  background-color: rgb(250, 62, 140);
+}
+#section-2{
+  background-color: rgb(250, 190, 62);
+}
+#section-3{
+  background-color: rgb(62, 212, 250);
+}
+#section-4{
+  background-color: rgb(62, 250, 162);
+}
