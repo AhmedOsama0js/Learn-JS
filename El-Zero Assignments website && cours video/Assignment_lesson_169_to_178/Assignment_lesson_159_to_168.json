@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "author": "John Smith",
+      "category": "Technology",
+      "title": "The Future of Artificial Intelligence",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec tincidunt leo. Donec lorem mi, tristique a nisl sit amet, consectetur bibendum mauris. Integer id metus vitae diam ornare lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In sit amet turpis posuere, imperdiet quam eu, bibendum massa."
+    },
+    {
+      "id": 2,
+      "author": "Jane Doe",
+      "category": "Politics",
+      "title": "The Role of Women in Politics",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec tincidunt leo. Donec lorem mi, tristique a nisl sit amet, consectetur bibendum mauris. Integer id metus vitae diam ornare lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In sit amet turpis posuere, imperdiet quam eu, bibendum massa."
+    },
+    {
+      "id": 3,
+      "author": "Mark Johnson",
+      "category": "Sports",
+      "title": "The Future of American Football",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec tincidunt leo. Donec lorem mi, tristique a nisl sit amet, consectetur bibendum mauris. Integer id metus vitae diam ornare lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In sit amet turpis posuere, imperdiet quam eu, bibendum massa."
+    },
+    {
+      "id": 4,
+      "author": "Sarah Lee",
+      "category": "Food",
+      "title": "The Art of Baking",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec tincidunt leo. Donec lorem mi, tristique a nisl sit amet, consectetur bibendum mauris. Integer id metus vitae diam ornare lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In sit amet turpis posuere, imperdiet quam eu, bibendum massa."
+    },
+    {
+      "id": 5,
+      "author": "David Brown",
+      "category": "Business",
+      "title": "The Future of Remote Work",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec tincidunt leo. Donec lorem mi, tristique a nisl sit amet, consectetur bibendum mauris. Integer id metus vitae diam ornare lobortis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In sit amet turpis posuere, imperdiet quam eu, bibendum massa."
+    }
+  ]
