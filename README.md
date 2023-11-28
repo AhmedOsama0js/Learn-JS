@@ -51,10 +51,14 @@ Not finished yet
 #### --------------------------
 
 
-## 6-file- codewars Solution and leetcode](https://github.com/AhmedOsama0js/Learn-JS/tree/main/codewars%20Solution%20and%20leetcode)
+## 6-file- [codewars Solution and leetcode](https://github.com/AhmedOsama0js/Learn-JS/tree/main/codewars%20Solution%20and%20leetcode)
 
 This file has been divided into several levels and several locations to solve programming challenges and is constantly updated
 
+You can see the level in this picture
+#### <img src="https://www.codewars.com/users/Ahmed-Osama/badges/micro">
+You can see the solutions on the website through this 
+#### link:[codewars](https://www.codewars.com/users/Ahmed-Osama)
 ###  not finished yet
 
 #### --------------------------
