@@ -31,9 +31,10 @@ try {
   confirm(e);
 }
 
-
 /*
 In brief, the `throw` statement is employed to raise an error within a function when an unexpected issue arises,
+
 while the `try` block is utilized when attempting to invoke or call that function. Subsequently,
+
 the caught error is modified or handled in the calling function through the `catch` block.
 */
