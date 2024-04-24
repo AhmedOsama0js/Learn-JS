@@ -14,3 +14,20 @@ Please solve it without the built-in Array.filter method.
 
 */
 
+
+
+// Solution 1
+var filter =  (arr, fn) =>  arr.map((e,i) => fn(e,i));
+// Runtime 55 ms
+
+
+
+
+// Solution 2
+var filter = (arr, fn) => {
+  let filteredArr = [];
+  for (let i = 0; i < arr.length; i++) {fn(arr[i], i) ? filteredArr.push(arr[i]): null  }
+  return filteredArr;
+};
+// Runtime 42 ms
+
