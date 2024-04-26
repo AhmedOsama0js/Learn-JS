@@ -66,3 +66,6 @@ let arr = [1, 9, 6, 3, 2],
   size = 2;
 
 console.log(chunk(arr, size));
+ let a = {"A":1,"B": 2}
+ let b = {"A":1,"B": 3}
+
